@@ -1,4 +1,4 @@
-== ROS Gazebo Simulation Docker Image
+== ROS2 Gazebo Simulation Docker Image
 
 This repository contains a starting point to building and running a simple Gazebo Docker image.
 
